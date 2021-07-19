@@ -7,4 +7,6 @@ public class coding {
     // share project on gitHub
     // do it
     // what is your name
+    // test case should be readable.
+    // do it
 }
